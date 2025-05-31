@@ -4,7 +4,7 @@ This project was originally created as part of a previous task to build a basic 
 
 As part of this task, it has now been enhanced to be **mobile-friendly** using **CSS media queries**.
 
----
+
 
 ## What Was Added
 
