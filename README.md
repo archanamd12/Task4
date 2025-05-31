@@ -8,7 +8,7 @@ As part of this task, it has now been enhanced to be **mobile-friendly** using *
 
 ## What Was Added
 
-- Responsive layout using `@media (max-width: 600px)`
+- Responsive layout using `@media (max-width: 768px)`
 - Header and navigation now stack vertically on small screens
 - Font sizes and spacing adjusted for better readability
 - Images scale properly within their containers
