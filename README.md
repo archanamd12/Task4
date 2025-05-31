@@ -15,3 +15,5 @@ As part of this task, it has now been enhanced to be **mobile-friendly** using *
 - Removed horizontal scrolling on mobile devices
 
 
+### 💻 Mobile View
+![Mobileview View](ss4.png)
